@@ -34,4 +34,5 @@ Random Forest (final). Evaluated on a held-out 20% test split using:
 
 > Random Forest achieved 88% accuracy and 0.92 ROC-AUC on held-out test data.
 
-
+DEPLOYED APP LINK :
+https://checkout-signal-lufu6pvatw7uu3zjsz9u5u.streamlit.app/
